@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm **Anhh Phapp**
-![Snake animation](https://github.com/Anhphap2004/Anhphap2004/blob/output/github-contribution-grid-snake.svg)
 
 💻 *Software Developer* | 🌱 *Tech Explorer* | 🎶 *Old Music Lover*  
 
@@ -83,3 +82,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+![Snake animation](https://github.com/Anhphap2004/Anhphap2004/blob/output/github-contribution-grid-snake.svg)
