@@ -33,38 +33,32 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anhhphap2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhhphap2004&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anhhphap2004&theme=tokyonight" alt="GitHub Streak" />
-</div>
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,react,java,php,python,cpp,html,css,js,github,git,vscode,visualstudio,mysql" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhphap2004&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhphap2004&layout=compact&theme=radical" height="150"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anhhphap2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anhhphap2004&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Anhphap2004&theme=radical" height="180"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anhphap2004&theme=radical&margin-w=10&margin-h=10&no-frame=true)
 
-![snake gif](https://github.com/Anhhphap2004/Anhhphap2004/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anhphap2004&theme=tokyo-night)
 
 ---
 
@@ -76,13 +70,6 @@
 
 ---
 
-## 🧩 Random Meme  
-
-<div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="350"/>
-</div>
-
----
 
 ## 👀 Profile Views  
 
