@@ -1,73 +1,93 @@
-<!-- Banner -->
-<img src="https://i.ibb.co/4f1QFZ2/coding-banner.gif" alt="Coding Banner" width="100%">
+<!-- Căn giữa tất cả -->
+<div align="center">
 
-# 👋 Xin chào! Welcome to my world, I'm **Anh Phapp**  
+# 👋 Xin chào! Mình là **Anhh Phapp**  
+🌟 *Luyện Dược Sư Cửu Phẩm Đế Đan* | 💻 Developer | 🎶 Người yêu nhạc xưa  
 
-❤️ Don't Just Look at Appearance  
-🍉 Look at Personality to Judge 🍓🔥  
-
----
-
-## 🚀 About Me
-- 🌱 I'm currently focusing on **ASP.NET Core MVC & Laravel**.  
-- 💻 Passionate about **Backend + Fullstack Development**.  
-- 📚 Exploring **C, C++, C#, Java, JavaScript**.  
-- 🎶 Chill coder who loves **old music & midnight coding vibes**.  
-- 🤝 Always ready to collaborate on **cool projects**.  
-
-📫 **Reach me at**:  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AnhPhapp24)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anh_phap204)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@anhhphapp204)  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 
 ---
 
-## 🛠 Tech Stack
+<!-- Hiệu ứng typing -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Backend+Developer;Fullstack+Web+Learner;Mỗi+dòng+code+là+một+kỷ+niệm;Âm+nhạc+xưa+%7C+Kỷ+niệm+cũ+%7C+Hoài+niệm)](https://git.io/typing-svg)
 
-### 🔤 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### ⚡ Frameworks & Libraries
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🌈 Giới thiệu bản thân
+✨ Xin chào mọi người, mình là **Pháp** – một sinh viên Công nghệ Thông tin đến từ Nghệ An.  
+💡 Với mình, **lập trình** không chỉ là những dòng code khô khan, mà còn là **một hành trình tìm kiếm cái đẹp và sự sáng tạo**.  
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+🔸 **Điểm nổi bật**:
+- 🎓 Sinh viên năm 4, chuyên ngành **CNTT – Đại học Vinh**
+- 💻 Hướng phát triển: **Web Development (ASP.NET Core, Laravel, Spring Boot, React)**  
+- 🌱 Học thêm: **Cloud, DevOps, AI**  
+- 🎶 Đam mê: **âm nhạc xưa, hoài niệm, ký ức cũ**  
+- 🧩 Châm ngôn sống: *"Don’t just look at appearance, look at personality to judge."*
+
+---
+
+## 🛠️ Ngôn ngữ & Công cụ
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,react,github,git,vscode,visualstudio,mysql,html,css,js,java,php,python,cpp" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Anh Phapp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhhphap2004&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhhphap2004&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anhphap2004&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhphap2004&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anhphap2004&theme=radical" height="180"/>
+</p>
 
 ---
 
-## 📈 Activity Graph
-[![Anh Phapp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anhhphap2004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 Thành tựu GitHub
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anhphap2004&theme=radical&margin-w=8&margin-h=8&no-frame=true)
 
 ---
 
-## 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Biểu đồ hoạt động
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anhphap2004&theme=tokyo-night)
 
 ---
 
-## 🔥 Visitors Count
-![Visitor Count](https://komarev.com/ghpvc/?username=Anhhphap2004&style=for-the-badge&color=ff69b4)
+## 🎵 Âm nhạc mình nghe
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)  
 
 ---
 
-## 🌟 Fun Fact
-🐾 Coding at night with a cup of coffee hits different ☕💻🌙  
+## 🎉 Fun Zone
+- 🧩 Random meme:  
+  ![Meme](https://random-memer.herokuapp.com/)  
 
-<img src="https://i.ibb.co/m5CZHSk/cat-coding.gif" width="300px" alt="cat coding">
+- ✨ Random quote:  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+- 📸 GIF mình thích:  
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
+
+---
+
+## 🌐 Liên hệ với mình
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://tiktok.com/@anhphhap204"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&logo=tiktok&logoColor=white" /></a>
+  <a href="https://instagram.com/anh_phap204"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## 👀 Lượt ghé thăm
+![Visitor Count](https://profile-counter.glitch.me/Anhphap2004/count.svg)
+
+---
+
+### 💫 Cảm ơn bạn đã ghé qua!  
+⭐ *Nếu thấy repo của mình hay, hãy để lại 1 star nhé!* ⭐
+
+</div>
