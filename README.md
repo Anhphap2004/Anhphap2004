@@ -8,14 +8,15 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
+✨ Hey, I'm **Phapp**, a passionate software developer from Vietnam.  
+I believe **programming is not just about code** – it's about creating something meaningful, beautiful, and lasting.  
 
-✨ I'm **Phapp**, a passionate developer from Vietnam.  
-💻 Senior student in **Computer Science – Vinh University**.  
-🛠 Specializing in **ASP.NET Core, Laravel, Spring Boot, React**.  
-☁️ Exploring **Cloud, DevOps, and AI**.  
-🎶 Love **old music**, nostalgia, and timeless memories.  
-🔥 Believe that *every bug is a challenge, every project is a journey*.  
+- 🎓 Senior student majoring in **Computer Science**  
+- 💻 Currently focusing on **ASP.NET Core, Laravel, Spring Boot, React**  
+- 🌱 Exploring **Cloud, DevOps, and AI**  
+- 🎶 Love listening to *old music*, embracing *nostalgia* & *memories*  
+- 🧩 Motto: *“Don’t just look at appearance, look at personality to judge.”*  
 
 ---
 
@@ -33,20 +34,14 @@
 
 ---
 
-## 🚀 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,spring,react,java,php,python,cpp,html,css,js,github,git,vscode,visualstudio,mysql" />
-</p>
-
----
 
 ## 📊 GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anhphap2004&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhphap2004&layout=compact&theme=radical" height="150"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Anhphap2004&theme=radical" height="180"/>
 </p>
 
